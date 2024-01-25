@@ -1,0 +1,1 @@
+this is node day 1 task. In this task,i will create a text file in timestamp folder also the filename is current time.txt .Run this code by using nodemon command in commandprompt.each and every time refresh the browser time file will create.
